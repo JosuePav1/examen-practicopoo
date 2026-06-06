@@ -7,4 +7,4 @@ public class Main {
         ControladorJuego juego = new ControladorJuego();
         juego.iniciar();
     }
-}
+}  
