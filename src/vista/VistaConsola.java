@@ -2,6 +2,7 @@ package vista;
 
 public class VistaConsola {
 
+	
     public void mostrarBienvenida() {
         System.out.println("=====================================");
         System.out.println("     BIENVENIDO AL BUSCAMINAS");
